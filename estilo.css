@@ -1,0 +1,28 @@
+h1{
+    color:green;
+    font-size: 30px;
+    text-align: center;
+
+}
+.contenedor{
+    border: 1px solid black;
+    height: 800px;
+    width: 100%;
+    margin-left: 10%;
+    overflow: hidden;
+    margin-top: 20px;
+    position: relative;
+    background-image: url('./images/mr1.gif');
+    background-size:80%; 
+    background-repeat:no-repeat;
+}
+table {
+    margin:auto;
+    border: 5px solid purple;
+}
+table tr td{
+    width: 100px;
+    height: 100px;
+    border: 3px solid green;
+    
+}
